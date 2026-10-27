@@ -1,0 +1,16 @@
+# This repo is public (it feeds GitHub Pages), so it holds only the public site.
+# Everything is ignored except the files allowed below. Never allow _private-screenshots
+# or .claude: they hold the unedited district screenshots and the tools that clean them.
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/styles.css
+!/script.js
+!/tour.css
+!/tour.js
+!/assets/
+
+Thumbs.db
+desktop.ini
+.DS_Store
